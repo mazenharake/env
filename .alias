@@ -1,0 +1,2 @@
+alias em='emacs -nw'
+alias rmf='rm -rf'
